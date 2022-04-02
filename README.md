@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi I'm Ankit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**ankitagarwal/ankitagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ankit Agarwal, a Full Stack Machine learning engineer. I am an open source enthusiast with over 2000+ commits to opensource
+projects. I love using technology and code to solve social and business challenges.
 
-Here are some ideas to get you started:
+Reach out to me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit_agarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-agarwal-44a81718/)
+
+TODO
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
+[![Devops Badge](https://img.shields.io/badge/-Devops-F0DB4F?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=F0DB4F)](#) 
+[![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e535ab?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=e535ab)](#)
+[![Databrics Badge](https://img.shields.io/badge/-Databrics-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
