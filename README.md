@@ -18,3 +18,8 @@ TODO
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
 [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e535ab?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=e535ab)](#)
 [![Databrics Badge](https://img.shields.io/badge/-Databrics-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
+[![Azure devops Badge](https://img.shields.io/badge/-Azure_devops-695551?style=for-the-badge&labelColor=black&logo=azuredevops&logoColor=695551)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-d8a195?style=for-the-badge&labelColor=black&logo=php&logoColor=d8a195)](#)
+[![Github actions Badge](https://img.shields.io/badge/-Github_actions-86493c?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=86493c)](#)
+[![mysql Badge](https://img.shields.io/badge/-Mysql-b3948e?style=for-the-badge&labelColor=black&logo=mysql&logoColor=b3948e)](#)
+[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-ddc9c?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=ddc9c)](#)
