@@ -22,3 +22,6 @@ TODO
 [![Github actions Badge](https://img.shields.io/badge/-Github_actions-86493c?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=86493c)](#)
 [![mysql Badge](https://img.shields.io/badge/-Mysql-b3948e?style=for-the-badge&labelColor=black&logo=mysql&logoColor=b3948e)](#)
 [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-ddc9c?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=ddc9c)](#)
+[![Unit testing Badge](https://img.shields.io/badge/-Unit_testing-541a0e?style=for-the-badge&labelColor=black&logo=testin&logoColor=541a0e)](#)
+[![Unit testing Badge](https://img.shields.io/badge/-Numpy-c84f35?style=for-the-badge&labelColor=black&logo=numpy&logoColor=c84f35)](#)
+[![Unit testing Badge](https://img.shields.io/badge/-Pandas-ef330b?style=for-the-badge&labelColor=black&logo=pandas&logoColor=ef330b)](#)
