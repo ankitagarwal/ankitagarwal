@@ -3,15 +3,14 @@
 I'm Ankit Agarwal, a Full Stack Machine learning engineer. I am an open source enthusiast with over 2000+ commits to opensource
 projects. I love using technology and code to solve social and business challenges.
 
-Reach out to me!
+#### Reach out to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit_agarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-agarwal-44a81718/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit_agarwal-e535ab?style=flat&labelColor=e535ab&logo=gmail&logoColor=white)](mailto:ankit.agrr@gmail.com)
 
 TODO
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 [![Devops Badge](https://img.shields.io/badge/-Devops-F0DB4F?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=F0DB4F)](#) 
