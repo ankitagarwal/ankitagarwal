@@ -8,7 +8,10 @@ projects. I love using technology and code to solve social and business challeng
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit_agarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-agarwal-44a81718/)
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit_agarwal-e535ab?style=flat&labelColor=e535ab&logo=gmail&logoColor=white)](mailto:ankit.agrr@gmail.com)
 
-TODO
+- 🔭 I’m currently working on building analytics product with engineering first mindset
+- 🌱 I’m currently learning MLops on AML, Custom Github actions
+- 👯 I’m looking to collaborate on Social causes
+- 💬 Ask me about engineering, mlops, technical debt, CI/CD, machine learning products
 
 #### Top Technologies
 
